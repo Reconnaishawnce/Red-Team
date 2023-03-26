@@ -46,7 +46,7 @@ Company Name   | Title | Date Posted |
 <a name="milestone"></a> Milestone Technologies (subcontractor for tech. companies) | [Global Security Red Team Specialist](https://docs.google.com/document/d/1FQwQlTEDToQIRPGgRbz-E1pTPY5BVHcvz3Hnnfxxj9U/edit?usp=share_link) | 2022 - January
 <a name="ubstester"></a> Facebook (Meta) | [Global Security Red Team Manager](https://docs.google.com/document/d/1liFfugGDZ25_WYCsh96m_Z3OYznfO8_n4oCLwmvkPrY/edit?usp=share_link) | 2019 - June
 <a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
-<a name="ubstester"></a> Google | [Global Physical Security Auditing and Assessment Lead](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2021 - October
+<a name="ubstester"></a> Google | Global Physical Security Auditing and Assessment Lead | 2021 - October
 <br/>
 <br/>
 <br/>
