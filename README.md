@@ -39,7 +39,7 @@ Technology companies, banks, government agencies, energy companies, consultants,
 <br/>
 
 ### Red Team Job Descriptions (from in-house Red Teams)
-Company Name   | Title | Date Posted |
+Company Name   | Title (and link to Job Description) | Date Posted |
 ------------ | ------------- | ------------ |
 <a name="ubstester"></a> [UBS](https://www.ubs.com/) | [Physical Red Team Tester](https://docs.google.com/document/d/1u_Vn-6rEx21jJn8qJImE-S_kMhBpoAqCC5tUexa8RUQ/edit?usp=share_link) | 2023 - January
 <a name="ubstestercyber"></a> [UBS](https://www.ubs.com/) | [Cyber Security Specialist Physical Testing Team Lead](https://docs.google.com/document/d/1XPnluY9bB9Z_Rv28d5uxX0BVR5-4Q7LKegw1AoctvWU/edit?usp=share_link) | 2023 - January
