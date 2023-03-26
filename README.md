@@ -35,6 +35,7 @@ Technology companies, banks, government agencies, energy companies, consultants,
 21) 12 Steps to Starting a Red Team
 22) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
 23) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
+24) Who to tell before a red team (and producing a communications plan to proactivly address destractors and answer questions)
 
 <br/>
 
