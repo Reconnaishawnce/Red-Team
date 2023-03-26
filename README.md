@@ -31,28 +31,22 @@ Technology companies, banks, government agencies, energy companies, consultants,
 17) Tools
 18) Ethics of Social Engineering
 19) Legal Implications 
+20) Red Teaming in Security Standards (ISO, COBIT, etc.)
+21) 12 Steps to Starting a Red Team
+22) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
+23) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
 
-### Quick Index list of items:
-
-1. [Reconnaissance Tools](#camera):
-   - [Camera with high zoom](#camera)
-        - [Polarized Camera Filters](#polarized)
-   - [Body Worn Action Camera](#ba-camera)
-   - [Drone with camera](#drone)
-   - [Two-Way Radios or Walkie Talkies](#radio)
-   - [Reliable flashlight](#flashlight)
-   - [Borescope / Endoscope](#borescope)
-   - [RFID Frequency Detector](#rfid-detector)
-   - [Alfa AWUS036ACS 802.11ac](#alfa)
-   - [CANtenna](#cantenna)
-2. 
-<br/>
 <br/>
 
 ### Red Team Job Descriptions (from in-house Red Teams)
 Company Name   | Title | Date Posted |
 ------------ | ------------- | ------------ |
-<a name="camera"></a> [UBS](https://www.ubs.com/) | [Physical Red Team Tester](https://docs.google.com/document/d/1u_Vn-6rEx21jJn8qJImE-S_kMhBpoAqCC5tUexa8RUQ/edit?usp=share_link) | 2023 - January
+<a name="ubstester"></a> [UBS](https://www.ubs.com/) | [Physical Red Team Tester](https://docs.google.com/document/d/1u_Vn-6rEx21jJn8qJImE-S_kMhBpoAqCC5tUexa8RUQ/edit?usp=share_link) | 2023 - January
+<a name="ubstestercyber"></a> [UBS](https://www.ubs.com/) | [Cyber Security Specialist Physical Testing Team Lead](https://docs.google.com/document/d/1XPnluY9bB9Z_Rv28d5uxX0BVR5-4Q7LKegw1AoctvWU/edit?usp=share_link) | 2023 - January
+<a name="milestone"></a> Milestone Technologies (subcontractor for tech. companies) | [Global Security Red Team Specialist](https://docs.google.com/document/d/1FQwQlTEDToQIRPGgRbz-E1pTPY5BVHcvz3Hnnfxxj9U/edit?usp=share_link) | 2022 - January
+<a name="ubstester"></a> Facebook (Meta) | [Global Security Red Team Manager](https://docs.google.com/document/d/1liFfugGDZ25_WYCsh96m_Z3OYznfO8_n4oCLwmvkPrY/edit?usp=share_link) | 2019 - June
+<a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
+<a name="ubstester"></a> Google | [Global Physical Security Auditing and Assessment Lead](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2021 - October
 <br/>
 <br/>
 <br/>
