@@ -12,30 +12,32 @@
 
 Technology companies, banks, government agencies, energy companies, consultants, and many companies that protect critical assets, work in high-risk environments, or simply want to have industry leading security all conduct physec red teaming. 
 
-1) Types of red teams (consultant, hybrid, in-house, etc.)
-2) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
-3) LOAs
-4) JDs
-5) Red Team Proposal
-6) Red Team Report
-7) Vulnerability Tracking
-8) Threat Modeling
-9) Communicating Findings to Leadership
-10) Notable Finds (that shouldn't get fixed)
-11) Safety and Security Considerations (and a template of how to include it)
-12) Key Resources
-13) Red Team Analysts 
-14) Key Partners (standards, design, technology, other RTs)
-15) Partnering with other RTs
-16) Scoping your red team
-17) Tools
-18) Ethics of Social Engineering
-19) Legal Implications 
-20) Red Teaming in Security Standards (ISO, COBIT, etc.)
-21) 12 Steps to Starting a Red Team
-22) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
-23) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
-24) Who to tell before a red team (and producing a communications plan to proactivly address destractors and answer questions)
+1) Corporate/Physical Security Red Team Job Descriptions
+2) Red Team Resources & Links
+3) Types of red teams (consultant, hybrid, in-house, etc.)
+4) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
+5) LOAs
+6) JDs
+7) Red Team Proposal
+8) Red Team Report
+9) Vulnerability Tracking
+10) Threat Modeling
+11) Communicating Findings to Leadership
+12) Notable Finds (that shouldn't get fixed)
+13) Safety and Security Considerations (and a template of how to include it)
+14) Key Resources
+15) Red Team Analysts 
+16) Key Partners (standards, design, technology, other RTs)
+17) Partnering with other RTs
+18) Scoping your red team
+19) Tools
+20) Ethics of Social Engineering
+21) Legal Implications 
+22) Red Teaming in Security Standards (ISO, COBIT, etc.)
+23) 12 Steps to Starting a Red Team
+24) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
+25) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
+26) Who to tell before a red team (and producing a communications plan to proactivly address destractors and answer questions)
 
 <br/>
 
@@ -52,7 +54,7 @@ Company Name   | Title (and link to Job Description) | Date Posted |
 <br/>
 <br/>
 
-
+### Red Team Resources
 Resources | Website | Description |
 -------------------------------- | ------- | --- |
 <a name="redteamtools"></a> Red Team Tools | https://www.redteamtools.com/ | Best place to buy high-quality red team tools |
@@ -61,3 +63,4 @@ Resources | Website | Description |
 <a name="toool"></a> Toool | https://www.toool.us/ | Largest (and best) lock picking group. Join their community! |
 <a name="davidprobinsky"></a> Probinsky's Covert Entry Toolkit | https://github.com/DavidProbinsky/RedTeam-Physical-Tools | Lists and descriptions of covert entry toolkits | 
 <a name="sparrowslockpicks"></a> Sparrows Lock Picks | https://www.sparrowslockpicks.com/ | Lock picks and tools of the trade |
+<a name="redteamalliance"></a> Red Team Alliance | https://www.redteamalliance.com/ | Red Team & Covert Entry Training
