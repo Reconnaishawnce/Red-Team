@@ -12,6 +12,36 @@
 
 Technology companies, banks, government agencies, energy companies, consultants, and many companies that protect critical assets, work in high-risk environments, or simply want to have industry leading security all conduct physec red teaming. 
 
+### Why conduct Red Teaming?
+
+If you have high-value assets, serious threats to your organization, or have discovered significant vulnerabilities the hard way - red teaming is for you. Red teaming should enable the business to carry out its mission with greater confidence, less surises, and no inturruptions. A good red team assessment will provide the business with key information relating to:
++ *Tactics:* The most likely tactics a threat actor (bad person/group) will use against your organization. This makes it *much* easier to focus resources and defend against those tactics. 
++ *Undiscovered Vulnerabilities:* Uncover major undiscovered vulnerabilities. Red teams will often say "better us than them" - meaning it's better that an internal team uncover an organization's weaknesses than someone with bad intentions. 
++ *Address our Huberis:* As security and risk management professionals, we think we know how to best protect our business, people, assets, and reputation. With stakes this high, we must be willing to test ourselves against real-world situations to see if our security measures hold up. Professional sports teams never go from practice straight to head-to-head games with their opponants. They have scrimiges, drills, pre-season, and other low-risk tests of their effectiveness. Likeweise, a red team is your scrimage partner. 
++ *Better Budgeting:* Red teams challenge security assumptions and determine whether the money you spend on security, compliance, and risk management are truely keeping your business safer. There are many ways to allocate budget that we assume result in risk reduction. A red team determines whether these measures truely reduce risk, giving you confidence and providing the data to be most efficient with our 
++ *Protect your Assets:* Protect your most important assets. Efficient red teams target your comapny's most important assets. Outside of being targeted by real-world adversaries, there is no better way to understand how well you are protecting your assets than a red team conducting an assessment on your most company assets. These assets can be anything from employees, knowledge, intellectual property, servers, crypto assets, passwords, company bank accounts, financial assets, equipment, and much more.  
++ *Protect your Business:* An assumption built on an assumption which is built on another assumptions is a house of cards ready to collapse when one foundational assumption turns out to be false. Red teams are assumption assasins. They systematically identify corporate, security, and risk management assumptions and test to see if they are true (therefor, no longer assumptions), or false - in which case leadership then has the clarity and information they need to make more informed decisions. All of this enables the business to operate uninturrupted, minimizing surprises, and strengething both resillience and confidence.  
+
+### Physical Security Red Teaming
+
+Companies will often have cybersecurity red team, ocassionally hardware red teams and AI red teams - but only a select few organizations employ internal physical security red teams. These organizations protect some of the world's most valuable assets, and have a very low appetite for loss. Technology companies such as Google and Facebook (Meta) have posted jobs indicating they have full internal red teams, while financial institutions such as UBS, Bank of America, Capitol One, and other large banks that hold a significant portion of the world's financial assets have teams of various types to test their security. As adversaries are running into increasing roadblacks and digital security, many are looking to physical attacks to gain information or access to internal networks. 
+<br>
+The global Physical Security market in 2022 was estimated to exceed $127 billion, with an expected increase up to $215 billion by 2030. How do we know that these billions are keeping businesses and populations safer? With real-world incidents and red team assessments. Waiting for a real incident to occur can have costly and sometimes catestrophic consequences. On the other hand, a red team assessment comes as close to a real-world incident without introducing the risk to people, assets, and businesses that come with an adversary's attack. In an environment where adversaries have to be right once to succeed, and businesses have to get it right 100% of time - physical security red teams work to ensure that your business succeeds and your adversaries fail. 
+
+### Physical Security Red Teaming Resources
+
+To date, there is no extensive, free, or open source information repository to support businesses who want to:
++ Build an internal red team (there are many times - see *Types of Red Teams*)
++ Hire external consultants to test their security measures
++ Improve their phyiscal red team
++ Expand their red team scope to incldue physical assessments
++ Enable security teams to test themselves
+
+Over the past two decades, I have built the first internal red team at a FAANG company, consulted with many business who are building red teams, conducted red team assessments across the globe, taught red teaming to graduate students, helped law enforcement encorperate red teaming idiologies into training, and collaberated with hundreds of red teams from government entities, multinational corporations, and consultancies. There are ample and ever-expanding resources and cybersecurity red teams, but severely limited resources available for physical security red teams. The objective of this page is to provide and share resources, leading practices, strategies, frameworks, and knowledge with the physical security red teaming community. 
+
+### Index
+Current and upcoming resources 
+<br> 
 1) Corporate/Physical Security Red Team Job Descriptions
 2) Red Team Resources & Links
 3) Types of red teams (consultant, hybrid, in-house, etc.)
