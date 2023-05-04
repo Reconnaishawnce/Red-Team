@@ -68,6 +68,7 @@ Current and upcoming resources
 24) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
 25) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
 26) Who to tell before a red team (and producing a communications plan to proactively address detractors and answer questions)
+27) Types of Red Teamers (Inspired by UBS/Tech/Phys): 12 core skills of a physical red teamer. Picking locks, hacking camera systems, program management, intelligence analysis (turing intel into ops), social engineering, etc.
 
 <br/>
 
