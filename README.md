@@ -43,7 +43,7 @@ Over the past two decades, I have built the first internal red team at a FAANG c
 Current and upcoming resources 
 <br> 
 1) [Corporate/Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
-2) Red Team Resources & Links
+2) [Red Team Resources & Links](#red-team-resources)
 3) Types of red teams (consultant, hybrid, in-house, etc.)
 4) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
 5) LOAs
