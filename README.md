@@ -72,7 +72,7 @@ Current and upcoming resources
 
 <br/>
 
-### #Red Team Job Descriptions
+### Red Team Job Descriptions
 Over the last several years several companies have posted dedicated physical security red team positions - these are considered In-House Red Teams. Below are the ones I was able to capture and download 
 Company Name   | Title (and link to Job Description) | Date Posted |
 ------------ | ------------- | ------------ |
