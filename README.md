@@ -42,7 +42,7 @@ Over the past two decades, I have built the first internal red team at a FAANG c
 ### Index
 Current and upcoming resources 
 <br> 
-1) Corporate/Physical Security Red Team Job Descriptions
+1) [Corporate/Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
 2) Red Team Resources & Links
 3) Types of red teams (consultant, hybrid, in-house, etc.)
 4) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
@@ -72,8 +72,8 @@ Current and upcoming resources
 
 <br/>
 
-### Red Team Job Descriptions (from in-house Red Teams)
-Over the last several years several companies have posted dedicated physical security red team positions. Below are the ones I was able to capture and download 
+### #Red Team Job Descriptions
+Over the last several years several companies have posted dedicated physical security red team positions - these are considered In-House Red Teams. Below are the ones I was able to capture and download 
 Company Name   | Title (and link to Job Description) | Date Posted |
 ------------ | ------------- | ------------ |
 <a name="ubstester"></a> [UBS](https://www.ubs.com/) | [Physical Red Team Tester](https://docs.google.com/document/d/1u_Vn-6rEx21jJn8qJImE-S_kMhBpoAqCC5tUexa8RUQ/edit?usp=share_link) | 2023 - January
