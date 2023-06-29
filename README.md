@@ -44,7 +44,7 @@ Current and upcoming resources
 <br> 
 1) [Corporate/Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
 2) [Red Team Resources & Links](#red-team-resources)
-3) Types of red teams (consultant, hybrid, in-house, etc.)
+3) [Types of red teams - In-House, Consultants, or Hybrid?](#in-house-or-outsourced-red-teams)
 4) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
 5) LOAs
 6) JDs
