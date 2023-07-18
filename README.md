@@ -39,37 +39,6 @@ To date, there is no extensive, free, or open source information repository to s
 
 Over the past two decades, I have built the first internal red team at a FAANG company, consulted with many business who are building red teams, conducted red team assessments across the globe, taught (and continue to teach) red teaming to graduate students, helped law enforcement incorporate red teaming ideologies into training, and collaborated with hundreds of red teams from government entities, multinational corporations, and consultancies. There are ample and ever-expanding resources and cybersecurity red teams, but severely limited resources available for physical security red teams. The objective of this page is to provide and share resources, leading practices, strategies, frameworks, and knowledge with the physical security red teaming community. 
 
-### Index
-Current and upcoming resources 
-<br> 
-1) [Corporate/Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
-2) [Red Team Resources & Links](#red-team-resources)
-3) [Types of red teams - In-House, Consultants, or Hybrid?](#in-house-or-outsourced-red-teams)
-4) Type of Red Teaming (decisions, cyber, hardware, physical sec. etc) 
-5) LOAs
-6) JDs
-7) Red Team Proposal
-8) Red Team Report
-9) Vulnerability Tracking
-10) Threat Modeling
-11) Communicating Findings to Leadership
-12) Notable Finds (that shouldn't get fixed)
-13) Safety and Security Considerations (and a template of how to include it)
-14) Key Resources
-15) Red Team Analysts 
-16) Key Partners (standards, design, technology, other RTs)
-17) Partnering with other RTs
-18) Scoping your red team
-19) Tools
-20) Ethics of Social Engineering
-21) Legal Implications 
-22) Red Teaming in Security Standards (ISO, COBIT, etc.)
-23) 12 Steps to Starting a Red Team
-24) Deciding what type of red team your company needs (in house, consultant, SMEs in fields, etc.)
-25) Red Team Vendors (Folks I know, folks I'm aware of, etc.)
-26) Who to tell before a red team (and producing a communications plan to proactively address detractors and answer questions)
-27) Types of Red Teamers (Inspired by UBS/Tech/Phys): 12 core skills of a physical red teamer. Picking locks, hacking camera systems, program management, intelligence analysis (turing intel into ops), social engineering, etc.
-
 <br/>
 
 ### Red Team Job Descriptions
@@ -99,52 +68,14 @@ Resources | Website | Description |
 <br />
 <br />
 
-### In-House or Outsourced Red Teams
+### Red Team Companies and Vendors
+Company | Strengths | In Their Own Words |
+-------------------------------- | ------- | --- |
+<a name="coregroup"></a> [The CORE Group](https://www.thecoregroup.net) | Red Teaming, Access Control Testing, Technical Exploitation, Creative/New/Emerging Exploits. Seeks to understand your business and address the most likely threats, impactful scenarios, and valuable assets to your company. Detailed reports may include photos/video. Often recommends specific products to ameliorate risks. | Blended attacks coupling surreptitious penetration with information procurement for a full picture of your security posture.  |
+<a name="rozin"></a> [Rozin Security](https://www.rozinsecurity.com) | Red Team Assessments, Deep-Cover Social Engineer, International Red Team Assessments | Rozin Security offers next level premium Red Team assessment services. We leverage years of experience our Red Team operators gained in intelligence agencies, military special operations units, and undercover law enforcement operations. That allows us to provide your organization with a quality assessment performed accurately from the adversary’s standpoint, uncovering relevant threat actors’ objectives and operational capability. We simulate relevant threat actors ranging from corporate espionage to low-level criminals, from terrorists and hacktivists to foreign governments. Red Team assessments exploit and identify vulnerabilities in operational, physical, and technological domains within your operations. The Red Team assessment drives proactive change of security operations and creates a partnership between various departments and the Red Team to identify exploitable vulnerabilities to reduce the likelihood of catastrophic security incidents. |
+<a name="covertaccessteam"></a> [CovertAccess Team](https://www.covertaccessteam.com/) | Cyber-Physical Security Assessments | Covert Access Team also specializes in physical penetration testing, an often overlooked, yet critical component of comprehensive security. We evaluate the strength of your physical security measures by simulating attempts to gain unauthorized access to your premises. Our skilled operatives analyze potential weaknesses in perimeter security, access controls, surveillance systems, and more. With a focus on integrating physical security with cyber resilience, we enable your organization to withstand a full spectrum of threats. |
+<a name="redteamsecurity"></a> [RedTeam Security](https://www.redteamsecure.com/) | Cyber-enabled physical and physical-enabled cyber attacks. Great details (example report) provided up front to clients. | RedTeam Security's physical pen testing solution uncovers real-world vulnerabilities in the physical barriers and the systems that support them, meant to protect employees, sensitive information, and expensive hardware. Physical pen test specialists create simulated attacks that mimic criminals' actions to gain unauthorized access to sensitive equipment, data centers, or sensitive information. Some tested barriers might include doors and locks, fences, intrusion alarms, or even security guards and other employees. A RedTeam ethical hacker may leverage social engineering techniques to convince well-intentioned employees to provide building access that they should not have. They might even gain access to a meeting room and pick up credentials, access badges, or information left unattended. RedTeam Security teams know precisely how criminals might access computer systems and buildings. A security consultant may rely upon any or all these methods to gain access to the specified locations during a physical penetration test and identify damage that could be done once that access is gained. |
 
-In this post we discuss:
-1) Definitions on different types of red team assessments
-2) Two common approaches to red teaming seen at large corporations and government entities (in-house and outsourced) 
-3) Eight additional models that have been successful and combine in-house and outsourced in a way that makes the best use of security budget, team talent, and vendor expertise. 
-4) Description on how to use these models as a team manager both to help individuals grow in their role, and help the team grow in their performance and capabilities.
-5) A list of factors to consider when selecting the right model that works for your team or organization.  
-
-**Definitions:**
-> + **Engagement:** A red team operation is often referred to as an engagement. It encompases the planning, execution, and reporting phase of a red team assessment. 
-> + **Low Level Test / Assurance Test:** Low level, small scale, or assurance tests focus on a specific control (security measure) or controls, and are limited in scope. While a full scale engagement may involve using many different ways to steal a specific piece of information, an assurance test is more likely to test a specific control, such as an access control point (door, turnstile, security officer). Assurance tests are great opportunities to partner with other security teams, where you can provide real-world testing against recent training that security personnel completed, or test new security equipment before it is rolled out broadly. By definition, it is not a true red team assessment, but more of a targeted assessment to determine the performance of specific security measures. 
-> + **Full Scale Engagement:** A holistic and realistic assessment of security measures by a red team, emulating adversarial tactics to meet the adversary’s objective. In plain english, the red team pretends to be a company’s enemy (typically a hostile country or competitor) to steal valuable information or items. True adversaries have little constraints in their approach to targeting your company, and a full scale red team engagement should reflect this fact. A full scale engagement should have as few constraints as possible, the team should be creative in their approach, and truly behave like an adversary would behave as they target your assets. If the team is to live up to a good red team motto (“Better us than them”) then it’s incumbent upon the red team to reflect the tactics, capabilities, and motivations of the adversary to provide the most accurate picture of when, where, why, and how the company will be attacked. 
-
-Corporates with different needs, budgets, headcounts, internal skill sets, and constraints must decide on a red teaming approach that reflects their reality. Many organizations will take an overly-simplistic view and consider only two options: outsourced, or in-house. 
-+ **Outsourced:** Hiring consultants to conduct red team assessments and report findings to you. The red teamer is employed by a company who was contracted to test security. 
-+ **In House:** Hiring employees or reallocated employee time to conduct red teaming. The red teamer is employed by the organization they are assessing. 
-
-In reality, there are often better models that adopt a hybrid approach to maximize benefits from both outsourced and in-house. These may include:
-+ **Hybrid Operator:** There are less operators in-house, and they embed within larger consultant teams on engagements. 
-+ **Learning Model:** The assessment or team is fully led by outside subject matter expert consultants, with one or two in-house members joining as trainees or operators. The in-house personnel can learn from the experts in real time as they conduct the assessment. In this case, the organization obtains hands-on real-world training and a red team assessment for the price of a red team assessment. This is a great way to build operator confidence, create new leaders, and help non-red teamers begin to transition to red teaming roles. 
-+ **Hybrid Mitigation:** In-house red teamers focus on translating findings (i.e. vulnerabilities) into mitigatory actions (patching vulnerabilities). They may embed on operations but this is more so to understand security posture and exploits so they can help fix it, than it is to add skills or knowledge to the team. 
-+ **Outsourced Assurance Model:** In-house operators conduct full-scale engagements, while outsourced red team personnel conduct more frequent low-level assessments. This is good when A) you do not trust your outsourced consultants to conduct full scale assessments against your enterprise or; B) when your assets are too valuable to have an outside organization or personnel knowledgeable of security measures surrounding that (or - when your leadership believes this to be the case). 
-+ **Assurance Model:** Your in-house team focuses on low-level assurance assessments, while your outsourced team conducts full-scale operations. 
-+ **Outsourced Leadership:** When a consultant with extensive red team experience leads your internal team during an engagement. 
-+ **Outsourced Operator Model:** When you manage and control the assessment with in-house leadership, but a portion of the team is comprised of outsourced consultants or personnel. This may be particularly relevant when looking for a specific skill set that you would like to test, but that talent is not available in-house. 
-+ **Academic Model:** There are several academic security programs in the United States that have major red team components. As part of these programs, both students and instructors hunger for real-world experience and applications of the topics discussed in a classroom. Partnering with an academic program to get low/no cost red team assessments can provide both financial and talent-pipeline costs to your organization.
-
-***Discouraged Models***
-> **Part Time:** If you are unable to obtain both external consultants and an in-house red team, a part-time red team can still provide a significant benefit to the organization. This requires security and security-aligned professionals to dedicate a specific percent of their time to coming together and conducting a red team assessment against the very assets they spend much of their time protecting. There are significant pros and cons to this approach, both of which will be discussed in a future post. <br />
-> **Contingent Worker (CW):** Many companies will use contractors or contingent workers to staff their security teams. While this may be a less expensive option for the company, you are likely to have trust, loyalty, and capability options. For an important, specialized team identifying the company’s most significant vulnerabilities, you should have either a walled-off third party, or a fully in-house team doing the work. 
-
-Good people managers make clear paths for their team members to grow and flourish as individuals and employees. Good team managers enable employees to grow in their roles and enable the team to develop strategically and cohesively as a unit. I have watched one of the best red team managers I have worked with develop a program that creates a clear path for growth based on the above models. She built it as such: 
-1) As a new junior operator, members of the team must participate in two learning model assessments. Junior operators need-not have physical red team experience - the manager instead selected creative contrarians who espoused the drive, perspective, and mindset that would enable them to be an effective team member. 
-2) As junior members graduated to operators (standard members of the team), they would then be tasked with:
-    > + Overseeing three vendor-driven assurance tests;
-    > + Being an operator in one hybrid or in-house full scale assessment; and
-    > + Leading two full scale assessments. These were often hybrid assessments with vendors providing personnel to augment team capabilities. Good vendors may even be willing to have their experts and leaders join in on an assessment in non-leadership roles to help your in-house team develop new effective leadership. 
-3) At this point - typically one-and-a-half to two years after starting on the red team - the member is now designated as a Senior Red Team Operator. The ability to grow in a role and as a team provides a significant morale boost, leading to better individual and team performance. 
-
-
-There are a number of factors that should help you decide which model to take when establishing a corporate red team, or when deciding on how to approach a specific engagement: 
-+ **Trust (Existing):** How much do you trust your red team vendors? 
-+ **Trust (Needed):** How much trust is needed for a specific red team assessment? Do you have exceptionally valuable assets that outsiders can not see? 
-+ **Vendor Talent:** Do you have vendors that have the skills to conduct the assessment you need (i.e. are the vendors capable)? Conversely, do you have vendors with specific skill sets needed to test a specific control? 
-+ **In-House Talent:** Do you have the skills, numbers, and experience in-house to conduct the assessment(s) that are needed for your organization? 
-+ **Cost:** What does it cost to outsource the red team assessment, and what does it cost to bring them in house? What additional benefits do you get for each scenario? 
-+ **Bureaucracy:** Does your company have an exceptionally high bar for onboarding new vendors? Is the headcount approval and hiring process so lengthy and painful that your time and money would be better spent working with vendors? Consider the pros and cons of each option based on the strengths and weaknesses of your corporate bureaucracy. 
-+ **Existing Resources:** Do you have existing vendors that are capable of conducting red team assessments? What about existing personnel or teams that could be repurposed part or full time for this role?   
+<br />
+Don't see your company on this list? Send me your name, website, and a description of your physical security red teaming work in your own words. Shawn[at]AbelRisk.com
+<br />
