@@ -2,6 +2,12 @@
 
 #       :fire: Red Team - Physical Security - Resources
 
+## Index
+- [Red Team Companies & Vendors](#red-team-companies-and-vendors)
+- [Red Team Resources](#red-team-resources)
+- [Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
+- [Red Team Articles](#red-team-articles)
+
 ## Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
 
 <p align="center">
@@ -81,3 +87,23 @@ Company | Strengths | In Their Own Words |
 <br />
 Don't see your company on this list? Send me your name, website, and a description of your physical security red teaming work in your own words. Shawn[at]AbelRisk.com
 <br />
+
+### Red Team Articles
+A selection of the best articles (and select quotes) on the wide array and significant impact of red teaming across industries:
++ [Bloomberg Government](https://about.bgov.com/news/deploy-a-government-contracting-red-team-john-chierichella/): How Red Teaming helps government contractors win major contracts
+   - "By harnessing the full potential of those guides—the red team—contractors can increase their chances of winning bids, fortify their projects against potential threats, and gauge their competitors’ strengths."
+  - "A red team is a coordinated group of experts assembled from outside the proposal team, or even outside the affected business unit. Its task is to critically evaluate, provide a fresh perspective on, and reveal hidden vulnerabilities in a proposal. A red team offers an independent and impartial scrutiny of the proposal from multiple angles."
+  - "Commit to a building a red team composed of diverse experts from various disciplines."
+  - "It is easy to fall into the trap of seeking validation rather than criticism. However, a red team’s value lies in its ability to pinpoint weaknesses that internal stakeholders might overlook due to their familiarity with the project."
+  - "Integrating the red team’s insights into a comprehensive risk management plan fosters a culture of continuous improvement"
++ [Twitter's Use of Red Teams for New Products](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)
+  - "Researchers conducted a “red team” exercise, bringing together employees across the company to explore how the tool could be misused."
+  - "The team assigned to the project [Spaces] worked overtime trying to get the feature out the door and didn’t schedule a red team exercise until August 10th — three months after launch."
+  - "Spaces went live without a comprehensive assessment of the key risks, and white nationalists and terrorists flooded the platform"
+  - "Earlier this year, Twitter walked back plans to monetize adult content after a red team found that the platform had failed to adequately address child sexual exploitation material."
++ [How Twitter's Childporn problem ruined its OnlyFans competition plans](https://www.theverge.com/23327809/twitter-onlyfans-child-sexual-content-problem-elon-musk)
+  - "Before the final go-ahead to launch, though, Twitter convened 84 employees to form what it called a “Red Team.” The goal was “to pressure-test the decision to allow adult creators to monetize on the platform"
+  - "What the Red Team discovered derailed the project: Twitter could not safely allow adult creators to sell subscriptions because the company was not — and still is not — effectively policing harmful sexual content on the platform."
+  - "Taking the Red Team report seriously, leadership decided it would not launch Adult Content Monetization until Twitter put more health and safety measures in place."
+  - "The Red Team report “was part of a discussion, which ultimately led us to pause the workstream for the right reasons,” said Twitter spokeswoman Katie Rosborough."
+  - "Given the size of the opportunity, the Red Team wrote, “ACM can help fund infrastructure engineering improvements to the rest of the platform.” "
