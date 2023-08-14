@@ -3,6 +3,7 @@
 #### Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
 
 ## Index
+- [PhySec Red Teaming Overview](#introduction)
 - [Red Team Companies & Vendors](#red-team-companies-and-vendors)
 - [Red Team Resources](#red-team-resources)
 - [Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
