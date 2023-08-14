@@ -1,6 +1,4 @@
-# Red Team
-
-#       :fire: Red Team - Physical Security - Resources
+#       👿 Physical Security Red Teaming
 
 ## Index
 - [Red Team Companies & Vendors](#red-team-companies-and-vendors)
@@ -8,11 +6,7 @@
 - [Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
 - [Red Team Articles](#red-team-articles)
 
-## Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
-
-<p align="center">
-<img src="https://i.imgur.com/SqnFpPb.jpeg" width="800">
-</p>
+#### Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
 
 ### Who does Physical Security Red Teaming?
 
@@ -47,7 +41,7 @@ Over the past two decades, I have built the first internal red team at a FAANG c
 
 <br/>
 
-### Red Team Job Descriptions
+## Red Team Job Descriptions
 Over the last several years several companies have posted dedicated physical security red team positions - these are considered In-House Red Teams. Below are the ones I was able to capture and download 
 Company Name   | Title (and link to Job Description) | Date Posted |
 ------------ | ------------- | ------------ |
@@ -61,7 +55,7 @@ Company Name   | Title (and link to Job Description) | Date Posted |
 <br/>
 <br/>
 
-### Red Team Resources
+## Red Team Resources
 Resources | Website | Description |
 -------------------------------- | ------- | --- |
 <a name="redteamtools"></a> Red Team Tools | https://www.redteamtools.com/ | Best place to buy high-quality red team tools |
@@ -74,7 +68,7 @@ Resources | Website | Description |
 <br />
 <br />
 
-### Red Team Companies and Vendors
+## Red Team Companies and Vendors
 Company | Strengths | In Their Own Words |
 -------------------------------- | ------- | --- |
 <a name="coregroup"></a> [The CORE Group](https://www.thecoregroup.net) | Red Teaming, Access Control Testing, Technical Exploitation, Creative/New/Emerging Exploits. Seeks to understand your business and address the most likely threats, impactful scenarios, and valuable assets to your company. Detailed reports may include photos/video. Often recommends specific products to ameliorate risks. | Blended attacks coupling surreptitious penetration with information procurement for a full picture of your security posture.  |
@@ -88,7 +82,7 @@ Company | Strengths | In Their Own Words |
 Don't see your company on this list? Send me your name, website, and a description of your physical security red teaming work in your own words. Shawn[at]AbelRisk.com
 <br />
 
-### Red Team Articles
+## Red Team Articles
 A selection of the best articles (and select quotes) on the wide array and significant impact of red teaming across industries:
 + [Bloomberg Government](https://about.bgov.com/news/deploy-a-government-contracting-red-team-john-chierichella/): How Red Teaming helps government contractors win major contracts
    - "By harnessing the full potential of those guides—the red team—contractors can increase their chances of winning bids, fortify their projects against potential threats, and gauge their competitors’ strengths."
@@ -107,3 +101,8 @@ A selection of the best articles (and select quotes) on the wide array and signi
   - "Taking the Red Team report seriously, leadership decided it would not launch Adult Content Monetization until Twitter put more health and safety measures in place."
   - "The Red Team report “was part of a discussion, which ultimately led us to pause the workstream for the right reasons,” said Twitter spokeswoman Katie Rosborough."
   - "Given the size of the opportunity, the Red Team wrote, “ACM can help fund infrastructure engineering improvements to the rest of the platform.” "
+  <br>
+
+  <p align="center">
+<img src="https://i.imgur.com/SqnFpPb.jpeg" width="700">
+</p>
