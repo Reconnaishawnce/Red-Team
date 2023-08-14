@@ -1,13 +1,14 @@
 #       👿 Physical Security Red Teaming
 
+#### Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
+
 ## Index
 - [Red Team Companies & Vendors](#red-team-companies-and-vendors)
 - [Red Team Resources](#red-team-resources)
 - [Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
 - [Red Team Articles](#red-team-articles)
 
-#### Disclaimer: This post is for educational purposes only. Don't use this information or these resources illegally or unethically. 
-
+## Introduction
 ### Who does Physical Security Red Teaming?
 
 Technology companies, banks, government agencies, energy companies, consultants, and many companies that protect critical assets, work in high-risk environments, or simply want to have industry leading security all conduct physec red teaming. 
