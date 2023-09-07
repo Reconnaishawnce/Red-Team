@@ -53,6 +53,7 @@ Company Name   | Title (and link to Job Description) | Date Posted |
 <a name="ubstester"></a> Facebook (Meta) | [Global Security Red Team Manager](https://docs.google.com/document/d/1liFfugGDZ25_WYCsh96m_Z3OYznfO8_n4oCLwmvkPrY/edit?usp=share_link) | 2019 - June
 <a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
 <a name="ubstester"></a> Google | Global Physical Security Auditing and Assessment Lead | 2021 - October
+<a name="tiktok"></a> TikTok | [Red Team Operator, Offensive Security Operations](https://docs.google.com/document/d/1F1GF2ZuGQUKieVvx5inPkdnTZoYM3zh3BgE4MDzgWG0/edit?usp=sharing) | 2023 - September
 <br/>
 <br/>
 <br/>
