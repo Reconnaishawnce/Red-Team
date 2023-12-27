@@ -82,7 +82,7 @@ Company | Strengths | In Their Own Words |
 <a name="Chameleon"></a> [Chameleon Associates](https://chameleonassociates.com/red-teaming-penetration-testing/) | Though I have not personally worked with Chameleon Associates, I have heard they have a wide network of talent across the US and some of Europe. I have also heard their skillsets are focused on covert entry and social engineering. | The Only Way To Measure Return On Investment In Security Is Through Red Teaming! The cost of being unprepared can prove alarmingly high! To insure that your facilities are well-protected and secure, it is essential to test your procedures, personnel and security framework. Chameleon assembles an impartial and objective team to access your vulnerabilities through the eyes of your adversary.    
 
 <br />
-Don't see your company on this list? Send me your name, website, and a description of your physical security red teaming work in your own words. Shawn[at]AbelRisk.com
+Don't see your company on this list? Send me your name, website, and a description of your physical security red teaming work in your own words. Shawn[at]PineRisk.com
 <br />
 
 ## Red Team Articles
