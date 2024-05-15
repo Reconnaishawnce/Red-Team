@@ -8,6 +8,7 @@
 - [Red Team Resources](#red-team-resources)
 - [Physical Security Red Team Job Descriptions](#red-team-job-descriptions)
 - [Red Team Articles](#red-team-articles)
+- [Red Team Talks & Media](#red-team-media)
 
 ## Introduction
 ### Who does Physical Security Red Teaming?
@@ -105,6 +106,15 @@ A selection of the best articles (and select quotes) on the wide array and signi
   - "The Red Team report “was part of a discussion, which ultimately led us to pause the workstream for the right reasons,” said Twitter spokeswoman Katie Rosborough."
   - "Given the size of the opportunity, the Red Team wrote, “ACM can help fund infrastructure engineering improvements to the rest of the platform.” "
   <br>
+  
+  ## Red Team Media
+Talk Name | Delivered To | Media Medium | Speaker | Link
+------------ | ------------- | ------------ | ------------ | ------------ |
+<a name="devnotred"></a> You’re Probably Not Red Teaming... And Usually I’m Not, Either | SANS ICS 2018 | Video | Deviant Ollam | [YouTube](https://www.youtube.com/watch?v=mj2iSdBw4-0)
+<a name="secstud"></a> An Introduction to Physical Red Teaming | The Security Student Podcast | Podcast | Shawn | [Spotify](https://open.spotify.com/episode/2emoWzK9Nibb1zVDgZMtvW?si=ada4de489a254736), [Show Notes](https://thesecuritystudent.com/show-notes-an-introduction-to-physical-red-teaming-with-shawn-abelson/)
+<a name="unspokensec"></a> Challenging Assumptions at the Intersection of Cyber and Physical Security | Unspoken Security Podcast | Video & Podcast | Ana & Shawn | [YouTube Part 1](https://www.youtube.com/watch?v=gtqKa630vn4&t=2423s), [YouTube Part 2](https://www.youtube.com/watch?v=4BBoCtvbJco&t=39s), [Spotify Part 1](https://open.spotify.com/episode/4ehYLsL984B5YIpExWmv9O?si=8b44f5c1c6d44212), [Spotify Part 2](https://open.spotify.com/episode/6RCI4EUQH8q9q3HxcHvJg2?si=26a30ce3b52a463a)
+<a name="jayson"></a> Blending Awareness, Social Engineering, and Physical Penetration Testing | 8th Layer Insights | Podcast | Jayson E. Street | [Spotify](https://open.spotify.com/episode/6A8LFld7K9fijE3xNqgUH8?si=d1f868937b724171)
+<br/>
 
   <p align="center">
 <img src="https://i.imgur.com/SqnFpPb.jpeg" width="700">
