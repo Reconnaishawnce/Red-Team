@@ -55,6 +55,8 @@ Company Name   | Title (and link to Job Description) | Date Posted |
 <a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
 <a name="ubstester"></a> Google | Global Physical Security Auditing and Assessment Lead | 2021 - October
 <a name="tiktok"></a> TikTok | [Red Team Operator, Offensive Security Operations](https://docs.google.com/document/d/1F1GF2ZuGQUKieVvx5inPkdnTZoYM3zh3BgE4MDzgWG0/edit?usp=sharing) | 2023 - September
+<a name="tiktok"></a> Control Risks (Contract for Fortune 500) | [Physical Red Team Specialist](https://drive.google.com/file/d/1D7nm-woH8nGZAROxmYwErm-hoPtjgenm/view?usp=sharing) | 2024 - December
+<a name="tiktok"></a> Control Risks (Contract for Fortune 500) | [Sr. Physical Red Team Specialist](https://drive.google.com/file/d/1-fTFrVVGtKROCeh3we17sv6eKzD1Jy8Q/view?usp=sharing) | 2024 - December
 <br/>
 <br/>
 <br/>
