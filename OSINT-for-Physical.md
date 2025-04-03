@@ -1,6 +1,8 @@
-# OPRT: Open Source Intelligence (OSINT) checklist for Physical Red Teaming Operations
+# OPRT: OSINT for Physical Red Teaming
 
 **Objective**: Identify information that enables you to gain access to secured assets in the way an adversary would.  
+
+#### Open Source Intelligence (OSINT) Checklist for Physical Red Team Operations. 
 
 ---
 
@@ -22,8 +24,8 @@
 
   ## 🔥 Favorite Links & Websites
 
-- **IntelTechniques** Tools for OSINT: [IntelTechniques](https://inteltechniques.com/tools/Address.html)
-- **OSINT Framework** for the latest resources: [OSINT Framework](https://osintframework.com/)
+- **IntelTechniques** - Tools for OSINT: [IntelTechniques](https://inteltechniques.com/tools/Address.html)
+- **OSINT Framework** - Framework with the Latest OSINT Resources: [OSINT Framework](https://osintframework.com/)
 
 ---
 
