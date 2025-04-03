@@ -18,7 +18,12 @@
 - **LinkedIn for employees and badge photos**
 
 - **Listed jobs**  
-  Look for clues about systems, processes, and social engineering opportunities  
+  Look for clues about systems, processes, and social engineering opportunities
+
+  ## 🔥 Favorite Links & Websites
+
+- **IntelTechniques** Tools for OSINT: [IntelTechniques](https://inteltechniques.com/tools/Address.html)
+- **OSINT Framework** for the latest resources: [OSINT Framework](https://osintframework.com/)
 
 ---
 
