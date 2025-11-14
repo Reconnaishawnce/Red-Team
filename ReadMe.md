@@ -48,15 +48,17 @@ Over the past two decades, I have built the first internal red team at a FAANG c
 Over the last several years several companies have posted dedicated physical security red team positions - these are considered In-House Red Teams. Below are the ones I was able to capture and download 
 Company Name   | Title (and link to Job Description) | Date Posted |
 ------------ | ------------- | ------------ |
+<a name="ubstester"></a> Facebook (Meta) | [Global Security Red Team Manager](https://docs.google.com/document/d/1liFfugGDZ25_WYCsh96m_Z3OYznfO8_n4oCLwmvkPrY/edit?usp=share_link) | 2019 - June
+<a name="ubstester"></a> Google | Global Physical Security Auditing and Assessment Lead | 2021 - October
+<a name="milestone"></a> Milestone Technologies (subcontractor for tech. companies) | [Global Security Red Team Specialist](https://docs.google.com/document/d/1FQwQlTEDToQIRPGgRbz-E1pTPY5BVHcvz3Hnnfxxj9U/edit?usp=share_link) | 2022 - January
+<a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
 <a name="ubstester"></a> [UBS](https://www.ubs.com/) | [Physical Red Team Tester](https://docs.google.com/document/d/1u_Vn-6rEx21jJn8qJImE-S_kMhBpoAqCC5tUexa8RUQ/edit?usp=share_link) | 2023 - January
 <a name="ubstestercyber"></a> [UBS](https://www.ubs.com/) | [Cyber Security Specialist Physical Testing Team Lead](https://docs.google.com/document/d/1XPnluY9bB9Z_Rv28d5uxX0BVR5-4Q7LKegw1AoctvWU/edit?usp=share_link) | 2023 - January
-<a name="milestone"></a> Milestone Technologies (subcontractor for tech. companies) | [Global Security Red Team Specialist](https://docs.google.com/document/d/1FQwQlTEDToQIRPGgRbz-E1pTPY5BVHcvz3Hnnfxxj9U/edit?usp=share_link) | 2022 - January
-<a name="ubstester"></a> Facebook (Meta) | [Global Security Red Team Manager](https://docs.google.com/document/d/1liFfugGDZ25_WYCsh96m_Z3OYznfO8_n4oCLwmvkPrY/edit?usp=share_link) | 2019 - June
-<a name="ubstester"></a> Amazon | [Principal, Red Team, Physical Security Penetration Testing](https://docs.google.com/document/d/119e1jA1bAK9ms-Gm036XtU2xKNCRr4ZVlPam76dKWl4/edit?usp=share_link) | 2022 - August
-<a name="ubstester"></a> Google | Global Physical Security Auditing and Assessment Lead | 2021 - October
 <a name="tiktok"></a> TikTok | [Red Team Operator, Offensive Security Operations](https://docs.google.com/document/d/1F1GF2ZuGQUKieVvx5inPkdnTZoYM3zh3BgE4MDzgWG0/edit?usp=sharing) | 2023 - September
 <a name="tiktok"></a> Control Risks (Contract for Fortune 500) | [Physical Red Team Specialist](https://drive.google.com/file/d/1D7nm-woH8nGZAROxmYwErm-hoPtjgenm/view?usp=sharing) | 2024 - December
 <a name="tiktok"></a> Control Risks (Contract for Fortune 500) | [Sr. Physical Red Team Specialist](https://drive.google.com/file/d/1-fTFrVVGtKROCeh3we17sv6eKzD1Jy8Q/view?usp=sharing) | 2024 - December
+<a name="UHG"></a> United Healthcare - Optum | [Sr. Physical Red Team Analyst](https://drive.google.com/file/d/1ky3dnfOxHMhxqySCtn28jPur2RC_FuiD/view?usp=drive_link) | 2025 - October
+<a name="ControlRisks"></a> Control Risks (Contract for Fortune 500) | [Physical Red Team Specialist](https://drive.google.com/file/d/1lvvRzp55LgSGqybsrS6ryE0GZaJM3Gg3/view?usp=sharing) | 2025 - November
 <br/>
 <br/>
 <br/>
