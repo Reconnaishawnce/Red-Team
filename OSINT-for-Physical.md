@@ -159,7 +159,7 @@
 - Security vendor contracts
 - Glassdoor or handbooks for badge policies
 
-### ✔ Cameras & Surveillance
+###  Cameras & Surveillance
 - Google Dork: `inurl:/viewerframe?mode=`
 - Shodan.io (exposed cams, badge readers)
 - LinkedIn for brands like Genetec, Axis, Milestone
