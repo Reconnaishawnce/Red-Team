@@ -59,6 +59,8 @@ Company Name   | Title (and link to Job Description) | Date Posted |
 <a name="tiktok"></a> Control Risks (Contract for Fortune 500) | [Sr. Physical Red Team Specialist](https://drive.google.com/file/d/1-fTFrVVGtKROCeh3we17sv6eKzD1Jy8Q/view?usp=sharing) | 2024 - December
 <a name="UHG"></a> United Healthcare - Optum | [Sr. Physical Red Team Analyst](https://drive.google.com/file/d/1ky3dnfOxHMhxqySCtn28jPur2RC_FuiD/view?usp=drive_link) | 2025 - October
 <a name="ControlRisks"></a> Control Risks (Contract for Fortune 500) | [Physical Red Team Specialist](https://drive.google.com/file/d/1lvvRzp55LgSGqybsrS6ryE0GZaJM3Gg3/view?usp=sharing) | 2025 - November
+<a name="uhg"></a> UnitedHealth Group | [Senior Physical Red Team Security Analyst (Technical)](https://drive.google.com/file/d/1fQqcXm3PISQmjmV46TXJq56zCJwoCKwT/view?usp=drive_link) | 2026 - April
+<a name="DICE"></a> Newport News Public Schools (Via BizFusion) | [Social Engineering & Physical Security Testing Lead](https://drive.google.com/file/d/1SV3drFn41Es-lZgHmUZEBQR9RfWitOjA/view?usp=drive_link) | 2026 - May
 <br/>
 <br/>
 <br/>
