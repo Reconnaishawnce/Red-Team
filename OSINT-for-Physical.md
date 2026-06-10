@@ -6,7 +6,7 @@ A passive-first reconnaissance checklist for physical red team operations. Work 
 
 ---
 
-## ⚠️ Read First — Authorization & Scope
+## !! Read First — Authorization & Scope
 
 Physical red teaming is legal only when it's authorized in writing and bounded by an agreed scope. Before any of the below:
 
