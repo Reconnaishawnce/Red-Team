@@ -277,9 +277,13 @@ Real estate marketing leaks interiors more than any blueprint.
 - Vendor schedules in handbooks
 - Trash & shred pickup timing (document-discard windows)
 
-### Drone / Aerial Recon *(new)*
+### Drone / Aerial Recon
 - Pre-collected aerial imagery (Earth, NearMap) before any live flight
 - Live drone recon only if explicitly authorized — check FAA Part 107, local ordinances, and the ROE; many sites near airports, prisons, or government facilities are no-fly
+
+### Area Cameras
+- Deflock - Map of nearby [ALPR Cameras](https://maps.deflock.org/)
+- State 511 Traffic Cameras, or State Department of Transportation (DOT) Cameras - Often shows live or near-real-time video from various highways around the area. 
 
 ---
 
