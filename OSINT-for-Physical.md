@@ -68,6 +68,7 @@ Recon can tip off a target as easily as the live op can.
 - Google Maps (Street View, Satellite, Earth 3D)
 - **Historical imagery** (Google Earth Pro timeline) — watch fencing, lot usage, construction, and where vehicles actually park change over time
 - Bing Maps (Bird's Eye / oblique angles)
+- Apple Maps (Sometimes has more recent streetview images)
 - **NearMap / oblique aerial providers** — higher-res, multi-angle rooftops and yards
 - OpenStreetMap (often tags entrances, parking, barriers)
 - LinkedIn for building names & architect/designer portfolios
